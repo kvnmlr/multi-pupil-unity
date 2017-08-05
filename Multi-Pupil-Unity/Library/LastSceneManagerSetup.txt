@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/multi-pupil.unity
+  isLoaded: 1
+  isActive: 1
