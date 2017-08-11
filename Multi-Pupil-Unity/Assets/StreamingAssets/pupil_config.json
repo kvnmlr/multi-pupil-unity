@@ -1,0 +1,21 @@
+{
+	"setup_id" : "Test Settings",
+	"pupil_clients" : [
+		{
+			"name" : "Laptop 1",
+			"ip" : "192.168.1.1",
+			"port" : 50404,
+			"surface_name" : "screen",
+			"detect_surface" : true,
+			"initially_active" : true
+		},
+		{
+			"name" : "Laptop 2",
+			"ip" : "192.168.1.2",
+			"port" : 99999,
+			"surface_name" : "screen",
+			"detect_surface" : true,
+			"initially_active" : true
+		}
+	]
+}
